@@ -1,0 +1,201 @@
+GroupID,occasionID,transactionpurchasedate,transactionprice,area,block,row,seat,ticketband,occasionstartdate,occasiondescription,opponentname
+785,c35a7c10-92f3-4c14-8352-fd2073930f15,3/31/25 10:03,£30.00,LS - L7M,L7M - LS,S,566,Adult,4/26/25 15:00,Newcastle United v IpswichTown,Newcastle United
+1355,f5260104-ade2-ee11-8444-8b02ab317a60,4/17/24 11:07,£501.00,Block 2 SBR,SBR 2,A,69,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+2395,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/18/24 13:07,£10.00,Block 2 SBR,SBR 2,S,69,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+2780,82a755d7-d760-495c-90ff-64ab35da4f8a,9/9/24 10:13,£41.00,Block 3 SBR,SBR 3,Q,177,Adult,9/29/24 14:00,IpswichTown v Aston Villa ,Aston Villa 
+4524,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/25/24 12:29,£20.00,Block 4 SBR,SBR 4,F,10,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+6640,128d56a3-6175-4798-be76-d1b524c5bbba,1/21/25 13:27,£0.00,Ballot,NULL,,,Ballot Entry,1/22/25 17:00,Ballot - Aston Villa V Ipswich Town 22/01/2025 17:00:00,Aston Villa 
+7126,5fd065c0-690a-4025-ba3f-1c9578d5cb00,11/29/24 15:42,£0.00,Ballot,NULL,,,Ballot Entry,12/2/24 17:00,Ballot - Ipswich Town V Brighton and Hove Albion 02/12/2024 17:00:00,Brighton and Hove Albion
+8078,10a20c52-291f-4fcc-ac6f-3e23beffb72f,7/31/24 17:21,£10.00,Block 2 SAR,SAR 2,R,70,Senior 65+,8/10/24 12:30,IpswichTown v OGC NICE ,OGC NICE 
+11493,6ac3973d-c1d8-4794-99c1-a93a51b001e6,9/11/24 10:39,£30.00,118,Block 118,5,78,Adult,10/5/24 15:00,West Ham United v IpswichTown,West Ham United
+12318,bdc37e39-f057-411a-8cef-a5a1d277a025,4/5/25 11:05,£36.00,Block 1 SAR,SAR 1,AA,31,Adult,4/5/25 15:00,IpswichTown v Wolverhampton Wanderers,Wolverhampton Wanderers
+13506,f5260104-ade2-ee11-8444-8b02ab317a60,3/26/24 15:52,£359.00,Block 2 SBR,SBR 2,F,121,Senior 65+,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+14043,6ac3973d-c1d8-4794-99c1-a93a51b001e6,9/12/24 10:08,£25.00,218,Block 218,63,112,Under 21,10/5/24 15:00,West Ham United v IpswichTown,West Ham United
+16685,ae0331cd-8685-4970-8376-bbb66020d4bc,4/26/25 13:52,£5.00,The Martello Ground,NULL,,,Senior 65+,4/27/25 14:00,IpswichTown v Cheltenham Town,Cheltenham Town
+16922,2b8e828a-7fa4-46ee-9c54-4760a46e4df9,4/29/25 10:07,£27.00,M3,M3,U,351,Under 22,5/18/25 15:00,Leicester City v IpswichTown,Leicester City
+18181,a3b98854-b788-4a2f-9ae3-94b9c4c0b587,4/1/25 10:22,£30.00,LV3,LV3,8,12,Adult,5/3/25 15:00,Everton v IpswichTown,Everton
+19996,8da34142-88e8-ef11-84f5-e850e4a570be,3/20/25 13:44,£6.00,Block 5 SBR,SBR 5,N,100,Adult,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+25930,1fdb99ce-5f77-42fb-83d4-9469c070b7a4,1/13/25 8:58,£0.00,Block 1 SAR,SAR 1,Q,6,Player Comp,1/14/25 19:45,IpswichTown v Brighton and Hove Albion,Brighton and Hove Albion
+25930,77fccf7c-a1ba-4346-a681-ed79812f731d,2/24/25 9:48,£30.00,E233,E233,5,170,Adult,2/26/25 19:30,Manchester United v IpswichTown,Manchester United
+25930,f1c2d8dd-b715-468c-801a-ccaf0763dc14,8/7/24 10:53,£0.00,113,Block 113,Z,340,Player Comp,8/24/24 15:00,Manchester City v IpswichTown,Manchester City
+25931,0bff7cee-e611-486a-b32c-007b2ad50dd9,12/23/24 9:10,£0.00,Directors Box,Block DB,D,1,Home Directors (Home Directors),12/30/24 19:45,IpswichTown v Chelsea,Chelsea
+25931,bacdcf6d-deb8-4c62-93c8-31818151406d,8/16/24 11:34,£0.00,Directors Box,Block DB,C,6,Home Directors (Home Directors),8/17/24 12:30,IpswichTown v Liverpool,Liverpool
+25931,82a755d7-d760-495c-90ff-64ab35da4f8a,9/23/24 13:49,£0.00,Directors Box,Block DB,D,8,Home Directors (Home Directors),9/29/24 14:00,IpswichTown v Aston Villa ,Aston Villa 
+25931,8da34142-88e8-ef11-84f5-e850e4a570be,3/21/25 11:36,£0.00,Directors Box,Block DB,C,15,Complimentary,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+27424,10a20c52-291f-4fcc-ac6f-3e23beffb72f,7/31/24 13:09,£15.00,Block 6 SAR,SAR 6,S,141,Adult,8/10/24 12:30,IpswichTown v OGC NICE ,OGC NICE 
+27486,bb37ae29-eaef-4fcf-afbc-cc49a39b50ed,2/10/25 10:17,£36.00,Block 3 SBR,SBR 3,M,178,Adult,3/15/25 15:00,IpswichTown v Nottingham Forest,Nottingham Forest
+28343,19c83fef-557d-493d-8d78-dcf71c26e133,1/7/25 12:25,£0.00,Ballot,NULL,,,Ballot Entry,1/8/25 17:00,Ballot - Liverpool V Ipswich Town 08/01/2025 17:00:00,Liverpool
+30148,7ec9a626-cd3f-4808-a6d9-cce5b111dcb0,4/1/25 10:09,£6.00,Block 22,Block 22,F,173,Under 16,4/1/25 19:45,AFC Bournemouth v IpswichTown,AFC Bournemouth
+30407,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,1/8/25 13:05,£10.00,Block 3 SAR,SAR 3,AC,143,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+30600,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/16/24 10:27,£20.00,Block FF,Block FF,A,43,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+31190,13a521c1-d441-467f-80e4-f8db0f5a5405,8/9/24 10:15,£28.00,Block A,Block A,G,18,Senior 65+,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+32438,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/12/24 13:59,£10.00,Block VU1,Block VU1,D,11,AW Adult ,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+32438,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/23/24 8:41,£10.00,Block VU1,Block VU1,Q,1,AW Adult ,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+34192,f5260104-ade2-ee11-8444-8b02ab317a60,3/27/24 13:50,£478.00,Block A,Block A,G,8,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+36826,5fd065c0-690a-4025-ba3f-1c9578d5cb00,11/29/24 13:39,£0.00,Ballot,NULL,,,Ballot Entry,12/2/24 17:00,Ballot - Ipswich Town V Brighton and Hove Albion 02/12/2024 17:00:00,Brighton and Hove Albion
+38388,e5b58001-075d-4f3e-855c-f2e349e4a3b6,4/7/25 9:13,£0.00,Ballot,NULL,,,Ballot Entry,4/7/25 17:00,Ballot - Ipswich Town V Brentford 07/04/2025 17:00:00,Brentford
+39711,13a521c1-d441-467f-80e4-f8db0f5a5405,8/12/24 10:19,£36.00,Block 3 SAR,SAR 3,AG,149,Adult,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+40867,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,1/6/25 13:52,£10.00,Block 5 SBR,SBR 5,K,127,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+43135,d24915e8-bd16-44e8-be71-b37fa19d7edd,1/17/25 14:12,£29.50,Q2,Q2 WC 2,A,41,Senior 66+,2/15/25 15:00,Aston Villa  v IpswichTown,Aston Villa 
+51034,5fd065c0-690a-4025-ba3f-1c9578d5cb00,11/29/24 12:24,£0.00,Ballot,NULL,,,Ballot Entry,12/2/24 17:00,Ballot - Ipswich Town V Brighton and Hove Albion 02/12/2024 17:00:00,Brighton and Hove Albion
+58967,f1c2d8dd-b715-468c-801a-ccaf0763dc14,8/7/24 10:13,£30.00,314,314,H,365,Adult,8/24/24 15:00,Manchester City v IpswichTown,Manchester City
+60812,2d3f89b8-c050-40b8-a8ec-e82f6f62f970,5/6/25 10:10,£23.00,Block 2 SAR,SAR 2,AC,57,Under 23,5/25/25 16:00,IpswichTown v West Ham United,West Ham United
+61414,bb37ae29-eaef-4fcf-afbc-cc49a39b50ed,2/10/25 10:13,£36.00,Block 2 SAR,SAR 2,AH,85,Adult,3/15/25 15:00,IpswichTown v Nottingham Forest,Nottingham Forest
+64809,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/23/24 12:45,£10.00,Block 2 SBR,SBR 2,O,49,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+69948,575296b8-b0b6-45fd-b890-138e8dd264b7,10/4/24 10:03,£36.00,Block 3 SAR,SAR 3,C,117,Adult,11/2/24 15:00,IpswichTown v Leicester City,Leicester City
+70411,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,1/2/25 11:19,£10.00,Block C,Block C,L,70,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+73623,c35a7c10-92f3-4c14-8352-fd2073930f15,3/26/25 10:01,£30.00,LS - L7L,L7L - LS,T,516,Adult,4/26/25 15:00,Newcastle United v IpswichTown,Newcastle United
+74293,c35a7c10-92f3-4c14-8352-fd2073930f15,3/25/25 10:02,£30.00,LS - L7K,L7K - LS,T,508,Adult,4/26/25 15:00,Newcastle United v IpswichTown,Newcastle United
+74803,bacdcf6d-deb8-4c62-93c8-31818151406d,7/26/24 10:14,£41.00,Block 2 SAR,SAR 2,AE,68,Adult,8/17/24 12:30,IpswichTown v Liverpool,Liverpool
+75963,59bb48ce-4915-4275-b49e-1c1f9a0e41b1,1/20/25 10:04,£32.00,Block Q,Block Q,S,13,Senior 65+,2/22/25 15:00,IpswichTown v Tottenham Hotspur,Tottenham Hotspur
+77737,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/20/24 21:17,£10.00,Block 6 SBR,SBR 6,O,162,Under 19,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+79815,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/16/24 22:36,£20.00,Block 3 SAR,SAR 3,AA,145,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+80551,4ea2cc3d-3732-4b1c-9fdb-c6af8a1cc71d,10/21/24 10:11,£36.00,Block 5 SAR,SAR 5,H,111,Adult,11/24/24 15:00,IpswichTown v Manchester United,Manchester United
+83806,0bff7cee-e611-486a-b32c-007b2ad50dd9,11/22/24 10:55,£36.00,Block 4 SBR,SBR 4,O,3,Adult,12/30/24 19:45,IpswichTown v Chelsea,Chelsea
+84706,bdc37e39-f057-411a-8cef-a5a1d277a025,3/10/25 10:17,£32.00,Block 6 SAR,SAR 6,X,153,Adult,4/5/25 15:00,IpswichTown v Wolverhampton Wanderers,Wolverhampton Wanderers
+92408,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/19/24 16:35,£10.00,Block 1 SAR,SAR 1,P,28,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+93793,972b6d89-dce8-47f2-b8d8-765cbb244b8c,10/25/24 10:08,£32.00,Block 6 SBR,SBR 6,H,169,Adult,12/3/24 19:30,IpswichTown v Crystal Palace,Crystal Palace
+94221,e42dfb15-e580-46fe-9d71-081bc449f35b,1/27/25 10:03,£15.00,Block 9,Area 9,S,5,Adult,2/8/25 15:00,Coventry City v IpswichTown,Coventry City
+94244,e7a87937-8cb2-4f2e-808c-7702dd9c4f3d,11/4/24 10:28,£32.00,Block 5 SAR,SAR 5,A,94,Adult,12/8/24 14:00,IpswichTown v AFC Bournemouth,AFC Bournemouth
+97154,50d046e4-2ef8-49c4-aaa4-99265e6b8611,12/11/24 11:44,£0.00,Ballot,NULL,,,Ballot Entry,12/11/24 17:00,Ballot - Fulham V Ipswich Town 11/12/2024 17:00:00,Fulham FC
+98060,f5260104-ade2-ee11-8444-8b02ab317a60,3/26/24 20:31,£381.00,Block 4 SBR,SBR 4,J,39,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+99311,1b1acd0f-8a41-4b59-89e8-e3cd779a470f,4/15/25 18:41,£34.00,Block L,Block L,T,24,Adult,5/10/25 15:00,IpswichTown v Brentford,Brentford
+101340,f9121a0a-1c2d-4ee0-8674-10ae3d6a308d,7/26/24 14:01,£0.00,Register My Interest- Mascots,NULL,,,Mascot Register My Interest,10/19/24 12:30,Mascot register your interest ballot- Everton 19/10/2024 12:30:00,NULL
+102041,1c8aecaf-83c8-46df-a5bf-6c5cd0073774,11/12/24 10:03,£16.00,JL9,JL9,J,250,Under 14,12/14/24 15:00,Wolverhampton Wanderers v IpswichTown,Wolverhampton Wanderers
+104035,e5b58001-075d-4f3e-855c-f2e349e4a3b6,4/4/25 21:16,£0.00,Ballot,NULL,,,Ballot Entry,4/7/25 17:00,Ballot - Ipswich Town V Brentford 07/04/2025 17:00:00,Brentford
+104875,0885a9c4-8fdd-4291-b2f2-9d8ff0b15c0a,7/17/24 19:57,£0.00,Register My Interest- Mascots,NULL,,,Mascot Register My Interest,7/27/24 15:00,Mascot Register Your Interest- Fortuna Düsseldorf 27/07/2024 15:00:00,Fortuna Dusseldorf
+106068,f5260104-ade2-ee11-8444-8b02ab317a60,4/2/24 12:11,£49.00,Block J,Block J,A,14,Under 12,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+109612,f5260104-ade2-ee11-8444-8b02ab317a60,3/26/24 17:13,£118.00,Block 2 SBR,SBR 2,L,131,Under 19,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+109846,1ff16256-1258-478b-9350-d5bae1d549cc,11/19/24 10:19,£11.50,Block 23,Block 23,21,730,Under 17 (Under 17),12/27/24 20:15,Arsenal  v IpswichTown,Arsenal 
+110632,8da34142-88e8-ef11-84f5-e850e4a570be,3/16/25 11:43,£6.00,Block 6 SAR,SAR 6,N,141,Adult,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+111499,f1ed08e6-a2a6-4618-8415-9c4b50894b3a,8/20/24 10:05,£30.00,S1D,S1D_1,E,72,Adult,9/2/24 6:00,Brighton and Hove Albion v IpswichTown,Brighton and Hove Albion
+111578,bacdcf6d-deb8-4c62-93c8-31818151406d,7/29/24 10:49,£32.00,Block Q,Block Q,T,19,Senior 65+,8/17/24 12:30,IpswichTown v Liverpool,Liverpool
+111607,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/16/24 10:28,£15.00,Block 5 SBR,SBR 5,E,92,Under 23,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+111655,472d248b-01ff-4e5a-80fb-7997a93d636e,2/28/25 14:59,£0.00,Ballot,NULL,,,Ballot Entry,3/3/25 17:00,Ballot - Ipswich Town V Wolverhampton Wanderers 03/03/2025 17:00:00,Wolverhampton Wanderers
+113013,c5ca8aea-6125-4cb8-a98b-a0b92cae87e2,7/26/24 15:32,£0.00,Register My Interest- Mascots,NULL,,,Mascot Register My Interest,8/17/24 12:30,Mascot Register Your Interest Ballot - Liverpool FC 17/08/2024 12:30:00,Liverpool
+117863,e42dfb15-e580-46fe-9d71-081bc449f35b,1/31/25 10:02,£13.00,Block 9,Area 9,F,15,Senior 65+,2/8/25 15:00,Coventry City v IpswichTown,Coventry City
+118942,8da34142-88e8-ef11-84f5-e850e4a570be,3/4/25 19:16,£7.00,Block 5 SBR,SBR 5,L,86,Adult,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+119206,f1c2d8dd-b715-468c-801a-ccaf0763dc14,8/7/24 10:04,£30.00,314,314,R,352,Adult,8/24/24 15:00,Manchester City v IpswichTown,Manchester City
+119498,2d3f89b8-c050-40b8-a8ec-e82f6f62f970,5/6/25 15:50,£37.00,Block L,Block L,V,5,Adult,5/25/25 16:00,IpswichTown v West Ham United,West Ham United
+123562,f1c2d8dd-b715-468c-801a-ccaf0763dc14,8/6/24 10:01,£30.00,114,114,G,355,Adult,8/24/24 15:00,Manchester City v IpswichTown,Manchester City
+125264,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/20/24 10:02,£10.00,Block B,Block B,W,23,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+125346,4ea2cc3d-3732-4b1c-9fdb-c6af8a1cc71d,10/21/24 10:07,£32.00,Block 3 SAR,SAR 3,AJ,136,Senior 65+,11/24/24 15:00,IpswichTown v Manchester United,Manchester United
+125845,472d248b-01ff-4e5a-80fb-7997a93d636e,2/28/25 16:00,£0.00,Ballot,NULL,,,Ballot Entry,3/3/25 17:00,Ballot - Ipswich Town V Wolverhampton Wanderers 03/03/2025 17:00:00,Wolverhampton Wanderers
+126232,27837b58-040f-44b8-b3ac-18c1bc7fc057,7/22/24 10:14,£0.00,Ballot,NULL,,,Ballot Entry,8/17/24 12:30,Ballot - Ipswich Town V Liverpool 17/08/2024 12:30:00,Liverpool
+126758,10a20c52-291f-4fcc-ac6f-3e23beffb72f,7/31/24 10:24,£10.00,Block B,Block B,S,22,Senior 65+,8/10/24 12:30,IpswichTown v OGC NICE ,OGC NICE 
+127298,fb7b1ec2-dcf9-ef11-84f5-b0ec3070fb02,3/18/25 9:14,£0.00,Block VU2,Block VU2,Q,3,Turnstiles,3/18/25 19:00,IpswichTown v Millwall,Millwall
+127480,41239414-fd8a-40c2-b604-c4cf97bc58a3,11/18/24 10:23,£41.00,Block 3 SAR,SAR 3,AH,147,Adult,12/21/24 15:00,IpswichTown v Newcastle United,Newcastle United
+129070,50d046e4-2ef8-49c4-aaa4-99265e6b8611,12/11/24 16:12,£0.00,Ballot,NULL,,,Ballot Entry,12/11/24 17:00,Ballot - Fulham V Ipswich Town 11/12/2024 17:00:00,Fulham FC
+130563,af0e1522-335c-4158-8693-8a32a8c44f5c,9/23/24 10:12,£36.00,Block 3 SAR,SAR 3,AA,129,Adult,10/19/24 15:00,IpswichTown v Everton,Everton
+131243,f5260104-ade2-ee11-8444-8b02ab317a60,3/26/24 18:57,£501.00,Block 3 SBR,SBR 3,M,145,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+131245,f1c2d8dd-b715-468c-801a-ccaf0763dc14,8/6/24 10:04,£30.00,213,213.1,S,321,Adult,8/24/24 15:00,Manchester City v IpswichTown,Manchester City
+131418,7ec9a626-cd3f-4808-a6d9-cce5b111dcb0,3/7/25 12:02,£30.00,Block 23,Block 23,I,203,Adult,4/1/25 19:45,AFC Bournemouth v IpswichTown,AFC Bournemouth
+131440,82042fc0-aea3-4043-a4f2-639558e4b005,3/4/25 15:57,£30.00,Block VU2,Block VU2,C,9,AW Adult ,4/19/25 15:00,IpswichTown v Arsenal ,Arsenal 
+131440,82042fc0-aea3-4043-a4f2-639558e4b005,3/4/25 16:20,£30.00,Block VU2,Block VU2,S,19,AW Adult ,4/19/25 15:00,IpswichTown v Arsenal ,Arsenal 
+131770,0302458d-6134-4af6-a2b0-349ed135c663,3/19/25 10:28,£26.00,Coach - 5,NULL,,,Adult,4/13/25 9:30,Travel to Chelsea 13/04/2025 09:30:00,Chelsea
+132700,2b8e828a-7fa4-46ee-9c54-4760a46e4df9,4/29/25 10:02,£30.00,M3,M3,D,363,Adult,5/18/25 15:00,Leicester City v IpswichTown,Leicester City
+249459,1fdb99ce-5f77-42fb-83d4-9469c070b7a4,12/6/24 10:13,£41.00,Block O,Block O,V,9,Adult,1/14/25 19:45,IpswichTown v Brighton and Hove Albion,Brighton and Hove Albion
+249476,ec14897e-f30c-4aba-bb03-4e8493c8d37f,8/13/24 13:24,£38.00,Coach - 5,NULL,,,Adult,8/24/24 8:00,Travel to Manchester City 24/08/2024 08:00:00,Manchester City
+252946,f5260104-ade2-ee11-8444-8b02ab317a60,3/27/24 10:45,£381.00,Block U,Block U,D,153,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+254169,f5260104-ade2-ee11-8444-8b02ab317a60,3/27/24 12:57,£118.00,Block 5 SAR,SAR 5,V,109,Under 19,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+254769,1fdb99ce-5f77-42fb-83d4-9469c070b7a4,12/9/24 10:10,£36.00,Block 3 SAR,SAR 3,AD,119,Adult,1/14/25 19:45,IpswichTown v Brighton and Hove Albion,Brighton and Hove Albion
+278244,472d248b-01ff-4e5a-80fb-7997a93d636e,3/2/25 15:56,£0.00,Ballot,NULL,,,Ballot Entry,3/3/25 17:00,Ballot - Ipswich Town V Wolverhampton Wanderers 03/03/2025 17:00:00,Wolverhampton Wanderers
+580629,f5260104-ade2-ee11-8444-8b02ab317a60,4/18/24 20:45,£478.00,Block A,Block A,P,11,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+587487,a3b98854-b788-4a2f-9ae3-94b9c4c0b587,5/1/25 16:30,£30.00,UV2,UV2,P,69,Adult,5/3/25 15:00,Everton v IpswichTown,Everton
+590017,e42dfb15-e580-46fe-9d71-081bc449f35b,1/28/25 10:03,£15.00,Block 10,Area 10,N,5,Adult,2/8/25 15:00,Coventry City v IpswichTown,Coventry City
+590017,068b1fc7-aa13-4502-8e10-dd96c5486607,4/25/25 12:46,£0.00,Ballot,NULL,,,Ballot Entry,4/28/25 17:00,Ballot - Ipswich Town V West Ham 28/04/2025 17:00:00,West Ham United
+591638,e5b58001-075d-4f3e-855c-f2e349e4a3b6,4/4/25 14:10,£0.00,Ballot,NULL,,,Ballot Entry,4/7/25 17:00,Ballot - Ipswich Town V Brentford 07/04/2025 17:00:00,Brentford
+594127,f5260104-ade2-ee11-8444-8b02ab317a60,7/2/24 11:49,£478.00,Block A,Block A,N,19,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+608740,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/22/24 9:45,£10.00,Block T2,Block T2,D,118,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+860395,0267a9dd-e535-43dc-8507-c6b9ffc12297,1/10/25 18:05,£0.00,Ballot,NULL,,,Ballot Entry,1/13/25 17:00,Ballot - Ipswich Town V Tottenham Hotspur 13/01/2025 17:00:00,Tottenham Hotspur
+860472,82042fc0-aea3-4043-a4f2-639558e4b005,3/17/25 10:12,£41.00,Block B,Block B,W,31,Adult,4/19/25 15:00,IpswichTown v Arsenal ,Arsenal 
+861792,f5260104-ade2-ee11-8444-8b02ab317a60,5/21/24 12:17,£0.00,Block R,Block R,L,3,Staff,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+864924,f5260104-ade2-ee11-8444-8b02ab317a60,4/5/24 21:02,£595.00,Block N,Block N,L,26,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+865087,f5260104-ade2-ee11-8444-8b02ab317a60,4/17/24 21:36,£118.00,Block M,Block M,C,13,Under 19,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+865332,f5260104-ade2-ee11-8444-8b02ab317a60,3/27/24 7:40,£501.00,Block 3 SBR,SBR 3,T,154,Adult,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+1166568,7f9665e2-1e01-4bab-b4a8-da983f96719b,12/18/24 10:02,£15.00,AL7,AL7,15,151,Under 22,1/25/25 15:00,Liverpool v IpswichTown,Liverpool
+1187651,12533253-00fa-4bc0-ae47-f3b4d58ff41d,8/13/24 10:03,£190.00,Hall of Fame,NULL,,,Hall of Fame,9/29/24 14:00,Hospitality - Ipswich Town v Aston Villa 29/09/2024 14:00:00,Aston Villa 
+1187659,59bb48ce-4915-4275-b49e-1c1f9a0e41b1,1/20/25 10:08,£13.00,Block 2 SAR,SAR 2,AE,89,Under 19,2/22/25 15:00,IpswichTown v Tottenham Hotspur,Tottenham Hotspur
+1197500,1b1acd0f-8a41-4b59-89e8-e3cd779a470f,5/1/25 16:43,£0.00,Block 1 SAR,SAR 1,AJ,30,ITFC Foundation (ITFC Foundation),5/10/25 15:00,IpswichTown v Brentford,Brentford
+1197502,8da34142-88e8-ef11-84f5-e850e4a570be,3/6/25 14:17,£0.00,Block 4 SAR,SAR 4,P,27,ITFC Foundation (ITFC Foundation),3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+1197508,d4d1758c-2d83-48a0-832e-6dee60ddd156,1/8/25 15:56,£0.00,Block 1 SAR,SAR 1,AG,17,ITFC Foundation (ITFC Foundation),1/19/25 16:30,IpswichTown v Manchester City,Manchester City
+1198827,0267a9dd-e535-43dc-8507-c6b9ffc12297,1/10/25 12:06,£0.00,Ballot,NULL,,,Ballot Entry,1/13/25 17:00,Ballot - Ipswich Town V Tottenham Hotspur 13/01/2025 17:00:00,Tottenham Hotspur
+1198875,19c83fef-557d-493d-8d78-dcf71c26e133,1/7/25 17:25,£0.00,Ballot,NULL,,,Ballot Entry,1/8/25 17:00,Ballot - Liverpool V Ipswich Town 08/01/2025 17:00:00,Liverpool
+1200877,50d046e4-2ef8-49c4-aaa4-99265e6b8611,12/10/24 21:52,£0.00,Ballot,NULL,,,Ballot Entry,12/11/24 17:00,Ballot - Fulham V Ipswich Town 11/12/2024 17:00:00,Fulham FC
+1203251,8da34142-88e8-ef11-84f5-e850e4a570be,3/3/25 15:25,£2.00,Block GG,Block GG,K,78,Under 19,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+1209767,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/20/24 10:10,£10.00,Block H,Block H,E,11,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+1231362,13a521c1-d441-467f-80e4-f8db0f5a5405,8/1/24 8:27,£29.00,Block VU1,Block VU1,W,49,AW Adult ,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+1231362,13a521c1-d441-467f-80e4-f8db0f5a5405,8/1/24 10:38,£29.00,Block VU3,Block VU3,V,21,AW Adult ,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+1231362,13a521c1-d441-467f-80e4-f8db0f5a5405,8/1/24 8:22,£29.00,Block VU1,Block VU1,R,4,AW Adult ,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+1231362,13a521c1-d441-467f-80e4-f8db0f5a5405,8/1/24 8:00,£29.00,Block VU1,Block VU1,E,12,AW Adult ,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+1231685,10a20c52-291f-4fcc-ac6f-3e23beffb72f,8/2/24 10:02,£5.00,Block U2,Block U2,H,189,Under 19,8/10/24 12:30,IpswichTown v OGC NICE ,OGC NICE 
+1235705,41239414-fd8a-40c2-b604-c4cf97bc58a3,11/18/24 10:11,£13.00,Block K,Block K,I,16,Under 19,12/21/24 15:00,IpswichTown v Newcastle United,Newcastle United
+1240245,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/16/24 17:08,£10.00,Block T2,Block T2,J,137,Under 19,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+1256362,e7a87937-8cb2-4f2e-808c-7702dd9c4f3d,11/27/24 10:10,£41.00,Block VU3,Block VU3,G,23,Adult,12/8/24 14:00,IpswichTown v AFC Bournemouth,AFC Bournemouth
+1263370,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/16/24 10:55,£15.00,Block 4 SAR,SAR 4,F,39,Senior 65+,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+1263449,f578c173-9ec8-465f-b403-c78c24c9d997,3/7/25 14:28,£0.00,Ballot,NULL,,,Ballot Entry,3/10/25 17:00,Ballot - Ipswich Town V Arsenal 10/03/2025 17:00:00,Arsenal 
+1265260,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/20/24 12:00,£3.00,Block GG,Block GG,K,68,Under 12,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+1266416,8da34142-88e8-ef11-84f5-e850e4a570be,3/4/25 13:19,£3.00,Block I2,Block I2,G,155,Under 19,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+1272965,ae825920-dd6d-45dd-9b88-478c8d63f176,12/19/24 14:12,£29.00,Block VU3,Block VU3,G,33,AW Adult ,2/1/25 15:00,IpswichTown v Southampton,Southampton
+1272965,ae825920-dd6d-45dd-9b88-478c8d63f176,12/19/24 12:29,£29.00,Block VU2,Block VU2,G,26,AW Adult ,2/1/25 15:00,IpswichTown v Southampton,Southampton
+1281520,af0e1522-335c-4158-8693-8a32a8c44f5c,9/23/24 11:11,£36.00,Block Q,Block Q,V,24,Adult,10/19/24 15:00,IpswichTown v Everton,Everton
+1284358,bdc37e39-f057-411a-8cef-a5a1d277a025,3/10/25 10:17,£40.00,Block N,Block N,U,24,Adult,4/5/25 15:00,IpswichTown v Wolverhampton Wanderers,Wolverhampton Wanderers
+1287433,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/16/24 10:47,£20.00,Block 2 SBR,SBR 2,E,118,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+1301134,41239414-fd8a-40c2-b604-c4cf97bc58a3,11/18/24 10:06,£36.00,Block 5 SAR,SAR 5,B,79,Adult,12/21/24 15:00,IpswichTown v Newcastle United,Newcastle United
+1301656,972b6d89-dce8-47f2-b8d8-765cbb244b8c,11/4/24 13:27,£0.00,Directors Box,Block DB,H,10,Hospitality (Hospitality),12/3/24 19:30,IpswichTown v Crystal Palace,Crystal Palace
+1301716,1fdb99ce-5f77-42fb-83d4-9469c070b7a4,1/10/25 17:09,£0.00,Level Head Lounge,Level Head Lounge,B,7,Hospitality (Hospitality),1/14/25 19:45,IpswichTown v Brighton and Hove Albion,Brighton and Hove Albion
+1302617,575296b8-b0b6-45fd-b890-138e8dd264b7,10/7/24 10:38,£28.00,Block R,Block R,R,23,Senior 65+,11/2/24 15:00,IpswichTown v Leicester City,Leicester City
+1303850,d4d1758c-2d83-48a0-832e-6dee60ddd156,12/16/24 10:22,£41.00,Block 1 SBR,SBR 1,X,4,Adult,1/19/25 16:30,IpswichTown v Manchester City,Manchester City
+1303877,bacdcf6d-deb8-4c62-93c8-31818151406d,7/17/24 15:14,£34.00,Block VU3,Block VU3,D,31,AW Adult ,8/17/24 12:30,IpswichTown v Liverpool,Liverpool
+1303989,bb37ae29-eaef-4fcf-afbc-cc49a39b50ed,2/10/25 10:05,£36.00,Block 3 SAR,SAR 3,J,147,Adult,3/15/25 15:00,IpswichTown v Nottingham Forest,Nottingham Forest
+1304703,0885a9c4-8fdd-4291-b2f2-9d8ff0b15c0a,7/18/24 7:21,£0.00,Register My Interest- Mascots,NULL,,,Mascot Register My Interest,7/27/24 15:00,Mascot Register Your Interest- Fortuna Düsseldorf 27/07/2024 15:00:00,Fortuna Dusseldorf
+1306321,ae825920-dd6d-45dd-9b88-478c8d63f176,1/6/25 10:28,£36.00,Block A,Block A,W,3,Adult,2/1/25 15:00,IpswichTown v Southampton,Southampton
+1306374,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/18/24 20:41,£20.00,Block 2 SBR,SBR 2,N,125,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+1306964,98f29c95-6064-40f1-95ed-1e6477612a49,2/5/25 10:54,£250.00,Sir Bobby Robson Suite,NULL,,,Sir Bobby Robson Suite,3/15/25 15:00,Hospitality - Ipswich Town v Nottingham Forest 15/03/2025 15:00:00,Nottingham Forest
+1307273,82042fc0-aea3-4043-a4f2-639558e4b005,3/17/25 10:41,£36.00,Block 4 SBR,SBR 4,H,6,Adult,4/19/25 15:00,IpswichTown v Arsenal ,Arsenal 
+1307907,bb37ae29-eaef-4fcf-afbc-cc49a39b50ed,2/10/25 10:20,£41.00,Block O,Block O,T,8,Adult,3/15/25 15:00,IpswichTown v Nottingham Forest,Nottingham Forest
+1308254,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/21/24 16:12,£20.00,Block 3 SAR,SAR 3,E,120,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+1311333,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/21/24 9:07,£3.00,Block 1 SBR,SBR 1,Q,12,Under 19,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+1312347,13a521c1-d441-467f-80e4-f8db0f5a5405,8/12/24 10:12,£36.00,Block 3 SBR,SBR 3,S,175,Adult,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+1315379,24253326-ab14-412f-b9fe-babd7f4118dd,8/7/24 14:24,£300.00,Sir Bobby Robson Suite,NULL,,,Sir Bobby Robson Suite,8/17/24 12:30,Hospitality - Ipswich Town v Liverpool 17/08/2024 12:30:00,Liverpool
+1315584,8da34142-88e8-ef11-84f5-e850e4a570be,3/10/25 17:22,£6.00,Block 5 SBR,SBR 5,P,66,Adult,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+1316381,4ea2cc3d-3732-4b1c-9fdb-c6af8a1cc71d,10/21/24 10:08,£54.00,Block Y,Block Y.1,S,29,Adult,11/24/24 15:00,IpswichTown v Manchester United,Manchester United
+1318530,e42dfb15-e580-46fe-9d71-081bc449f35b,2/3/25 19:03,£15.00,Block 7,Block 7,NN,18,Adult,2/8/25 15:00,Coventry City v IpswichTown,Coventry City
+1324145,82a755d7-d760-495c-90ff-64ab35da4f8a,8/29/24 13:12,£30.00,Block VU3,Block VU3,A,35,AW Adult ,9/29/24 14:00,IpswichTown v Aston Villa ,Aston Villa 
+1324145,82a755d7-d760-495c-90ff-64ab35da4f8a,8/29/24 11:34,£30.00,Block VL,Block VL,H,41,AW Adult ,9/29/24 14:00,IpswichTown v Aston Villa ,Aston Villa 
+1324145,82a755d7-d760-495c-90ff-64ab35da4f8a,8/29/24 11:34,£30.00,Block VL,Block VL,G,48,AW Adult ,9/29/24 14:00,IpswichTown v Aston Villa ,Aston Villa 
+1326416,af0e1522-335c-4158-8693-8a32a8c44f5c,9/10/24 10:52,£29.00,Block VU2,Block VU2,B,35,AW Adult ,10/19/24 15:00,IpswichTown v Everton,Everton
+1327749,bb37ae29-eaef-4fcf-afbc-cc49a39b50ed,3/15/25 12:54,£32.00,Block 5 SAR,SAR 5,A,99,Adult,3/15/25 15:00,IpswichTown v Nottingham Forest,Nottingham Forest
+1330662,82042fc0-aea3-4043-a4f2-639558e4b005,3/25/25 11:15,£0.00,Block R,Block R,T,8,Hospitality (Hospitality),4/19/25 15:00,IpswichTown v Arsenal ,Arsenal 
+1331190,4ea2cc3d-3732-4b1c-9fdb-c6af8a1cc71d,10/8/24 16:05,£30.00,Block VU1,Block VU1,L,26,AW Adult ,11/24/24 15:00,IpswichTown v Manchester United,Manchester United
+1331190,4ea2cc3d-3732-4b1c-9fdb-c6af8a1cc71d,10/9/24 10:02,£29.00,Block VU2,Block VU2,V,28,AW Adult ,11/24/24 15:00,IpswichTown v Manchester United,Manchester United
+1335164,41239414-fd8a-40c2-b604-c4cf97bc58a3,11/5/24 15:56,£30.00,Block VL,Block VL,E,4,AW Adult ,12/21/24 15:00,IpswichTown v Newcastle United,Newcastle United
+1336254,ae0331cd-8685-4970-8376-bbb66020d4bc,4/25/25 12:01,£0.00,The Martello Ground,NULL,,,Complimentary,4/27/25 14:00,IpswichTown v Cheltenham Town,Cheltenham Town
+1336267,d4d1758c-2d83-48a0-832e-6dee60ddd156,12/16/24 10:16,£12.00,Block 5 SAR,SAR 5,B,94,Under 19,1/19/25 16:30,IpswichTown v Manchester City,Manchester City
+1338135,0bff7cee-e611-486a-b32c-007b2ad50dd9,12/23/24 15:14,£43.00,Block 3 SAR,SAR 3,Z,140,Adult,12/30/24 19:45,IpswichTown v Chelsea,Chelsea
+1338368,77b1760e-36ac-4e63-88d7-fabc5e4fdad1,3/20/25 13:45,£30.00,SU1,SU1,7,51,Adult,4/13/25 14:00,Chelsea v IpswichTown,Chelsea
+1340324,e7a87937-8cb2-4f2e-808c-7702dd9c4f3d,12/5/24 16:07,£36.00,Block Q,Block Q,R,23,Adult,12/8/24 14:00,IpswichTown v AFC Bournemouth,AFC Bournemouth
+1341588,1fdb99ce-5f77-42fb-83d4-9469c070b7a4,12/4/24 9:04,£29.00,Block VU3,Block VU3,G,15,AW Adult ,1/14/25 19:45,IpswichTown v Brighton and Hove Albion,Brighton and Hove Albion
+1343530,d4d1758c-2d83-48a0-832e-6dee60ddd156,12/4/24 16:34,£30.00,Block VU3,Block VU3,Q,3,AW Adult ,1/19/25 16:30,IpswichTown v Manchester City,Manchester City
+1352698,59bb48ce-4915-4275-b49e-1c1f9a0e41b1,1/3/25 9:16,£30.00,Block VU1,Block VU1,J,28,AW Adult ,2/22/25 15:00,IpswichTown v Tottenham Hotspur,Tottenham Hotspur
+1352698,59bb48ce-4915-4275-b49e-1c1f9a0e41b1,1/3/25 11:43,£30.00,Block VU3,Block VU3,M,6,AW Adult ,2/22/25 15:00,IpswichTown v Tottenham Hotspur,Tottenham Hotspur
+1355993,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,1/8/25 21:59,£10.00,Block R,Block R,U,27,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+1356740,ae825920-dd6d-45dd-9b88-478c8d63f176,1/6/25 10:11,£11.00,Block 3 SAR,SAR 3,R,117,Under 19,2/1/25 15:00,IpswichTown v Southampton,Southampton
+1369833,1b1acd0f-8a41-4b59-89e8-e3cd779a470f,4/7/25 16:38,£28.00,Block VU2,Block VU2,W,15,AW Adult ,5/10/25 15:00,IpswichTown v Brentford,Brentford
+1369833,1b1acd0f-8a41-4b59-89e8-e3cd779a470f,4/8/25 10:18,£29.00,Block VU2,Block VU2,O,40,AW Adult ,5/10/25 15:00,IpswichTown v Brentford,Brentford
+1369833,1b1acd0f-8a41-4b59-89e8-e3cd779a470f,4/7/25 16:45,£29.00,Block VU1,Block VU1,G,41,AW Adult ,5/10/25 15:00,IpswichTown v Brentford,Brentford
+1369833,1b1acd0f-8a41-4b59-89e8-e3cd779a470f,4/8/25 10:18,£29.00,Block VU2,Block VU2,K,9,AW Adult ,5/10/25 15:00,IpswichTown v Brentford,Brentford
+100000603,af0e1522-335c-4158-8693-8a32a8c44f5c,9/23/24 10:17,£36.00,Block 3 SAR,SAR 3,AF,125,Adult,10/19/24 15:00,IpswichTown v Everton,Everton
+100001198,bb37ae29-eaef-4fcf-afbc-cc49a39b50ed,3/11/25 11:23,£0.00,Block 1 SAR,SAR 1,AC,24,ITFC Academy (ITFC Academy),3/15/25 15:00,IpswichTown v Nottingham Forest,Nottingham Forest
+100001198,a5c8ee64-cda0-4c1d-aeda-454cf4a4ff91,4/1/25 16:36,£0.00,Block VU2,Block VU2,R,23,ITFC Academy (ITFC Academy),4/11/25 19:00,IpswichTown v Coventry City,Coventry City
+100001211,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/22/24 14:31,£20.00,Block 3 SBR,SBR 3,G,163,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+100001232,13a521c1-d441-467f-80e4-f8db0f5a5405,8/9/24 10:05,£32.00,Block T2,Block T2,B,145,Adult,8/31/24 15:00,IpswichTown v Fulham FC,Fulham FC
+100001795,7f9665e2-1e01-4bab-b4a8-da983f96719b,12/17/24 10:04,£15.00,AL7,AL7,29,155,Under 22,1/25/25 15:00,Liverpool v IpswichTown,Liverpool
+100002319,86460d85-9f75-4e66-82fb-c240f919e8eb,3/11/25 21:26,£0.00,Ballot,NULL,,,Ballot Entry,4/2/25 17:00,AFC Bournemouth v IpswichTown,AFC Bournemouth
+100002642,f5260104-ade2-ee11-8444-8b02ab317a60,4/4/24 10:56,£49.00,Block 4 SAR,SAR 4,G,55,Under 12,4/2/24 0:00,2024/25 - SEASON TICKET,NULL
+100003635,696d27c1-0c7a-441f-8de5-37d0f494ff32,8/14/24 13:04,£0.00,Ballot,NULL,,,Ballot Entry,8/15/24 17:00,Ballot - Manchester City V Ipswich Town 15/08/2024 17:00:00,Manchester City
+100004460,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/18/24 13:22,£10.00,Block JJ,Block JJ,B,180,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+100004796,ca91efd3-0b25-47ca-85c1-f59db85667ee,7/23/24 20:50,£20.00,Block 3 SAR,SAR 3,Y,141,Adult,7/27/24 15:00,IpswichTown v Fortuna Dusseldorf,Fortuna Dusseldorf
+100007906,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/31/24 13:10,£10.00,Block U,Block U,D,177,Adult,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
+100008069,8da34142-88e8-ef11-84f5-e850e4a570be,3/6/25 21:16,£6.00,Block G,Block G,F,16,Adult,3/23/25 14:00,IpswichTown v Plymouth Arygle,Plymouth Arygle
+100010765,69c9e5f7-dc3c-41c4-9295-bbb2538c539b,12/20/24 10:04,£3.00,Block T,Block T,D,60,Under 19,1/12/25 15:00,IpswichTown v Bristol Rovers,Bristol Rovers
