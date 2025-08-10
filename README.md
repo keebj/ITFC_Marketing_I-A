@@ -13,3 +13,5 @@ Provide insights to improve marketing strategies and fan experience.
 logic.ipynb – Main analysis and modelling workflow.
 
 Data schemas - Underpinning data for the analysis project.
+
+Requirements - Packages required on your machine to execute the logic.ipynb file.
